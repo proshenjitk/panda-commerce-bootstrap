@@ -1,0 +1,18 @@
+.info-backgruond{
+
+    background-color: #FCEAE8;
+
+}
+
+.categories img{
+    width: 150px;
+}
+
+.buynow-button{
+    background-color: #FF4891;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    color: whitesmoke;
+    font-weight: 600;
+}
